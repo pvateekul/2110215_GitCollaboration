@@ -1,7 +1,7 @@
 import java.awt.Color;
 import java.awt.Polygon;
 
-public class Shape implements Transitionable, Shadable{
+public class Shape{
 	
 	public int x,y,width,height;
 	
